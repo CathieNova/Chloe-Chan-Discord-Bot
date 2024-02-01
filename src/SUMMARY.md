@@ -6,5 +6,6 @@
     - [Fun Commands](./Commands/SlashCommands/FunCommands.md)
     - [Leveling Commands](./Commands/SlashCommands/LevelingCommands.md)
     - [Moderator Commands](./Commands/SlashCommands/ModeratorCommands.md)
+    - [Owner Commands](./Commands/SlashCommands/OwnerCommands.md)
 - [Features](./OtherStuff/Features.md)
 - [Support & Help](./OtherStuff/Support.md)

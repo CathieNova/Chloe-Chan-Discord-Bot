@@ -7,8 +7,10 @@ This page will show you all features that's not related to [Commands](../Command
     
     > This feature will be configurable in the future once i setup Server Configs, so it's not destined to use Forum Channel called "mc-issues".
 - Any URLs posted in a channel called "self promo" with or without the dash between the words will check if it's a Youtube or Twitch Url, if it's not then Chloe-Chan will yell at them.
-- Talking in any channel will give Experience to the member, but there is a cooldown of a minute to gain experience.
+- writing in any channel will give Experience to the member, but there is a cooldown of a minute to gain experience.
     > This feature will be reworked in the future, right now it's 1-2 Exp per minute if they chat a lot.
+
+    > Using any prefix commands such as **.** **>** **<** **!** **-** will not give you Exp, neither will using Slash commands.
 ### 🏩 Cathie's Haven Features:
 - You will gain "Haven Access" role if you:
     > Subscribe on [My Twitch Channel](https://www.twitch.tv/cathienova) with Tier 2 or 3.

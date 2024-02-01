@@ -5,6 +5,7 @@
 - Some commands contain an optional option to only show it for the person using the command.
 - CHOICE - Replace this with the actual choice in the selection menu.
 - X - Replace this with a number of your choosing.
+- TAGS - Replace this with 1 or more Tags, seperated with Comma.
 
 ## 💻 Commands
 
@@ -35,6 +36,7 @@
 | **/dog** | Chloe-Chan will find a random dog picture. | AttachFiles |  |
 | **/waifu CHOICE** | Chloe will find and send a SFW Waifu of your choosing. | AttachFiles | The choices are: Waifu, Neko, Shinobu, Megumin, Bully, Cry, Hug, Kiss, Lick, Pat, Smug, Highfive, Nom, Bite, Slap, Happy, Wink, Poke, Dance, Cringe, Blush. |
 | **/waifu34 CHOICE** | Chloe will find and send an NSFW Waifu of your choosing. | AttachFiles | The choices are: Waifu, Neko, Trap, Blowjob. This command can only be used in NSFW channels, it won't work outside of them. |
+| **/r34 TAGS** | Request NSFW gift from your Step-Sis! | AttachFiles | This command can only be used in NSFW channels, it won't work outside of them. |
 
 ## NOTE: 
 Commands that provide a GIF is still work in progress, i manually add them, so if you have any that you want added just put it in the **/suggest**
