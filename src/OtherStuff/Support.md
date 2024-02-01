@@ -1,7 +1,6 @@
 # 📃 Chloe-Chan Support
 
 > [Join my discord](https://discord.gg/u6SpUpfMzy)
-
 ## Supporting with benefits
 The benefit here is that you get "Haven Access" role in my discord that unlocks various content as well as Premium features for Chloe-Chan in your own discord server.
 

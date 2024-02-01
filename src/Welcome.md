@@ -1,7 +1,7 @@
 # 💖 Welcome to Chloe-Chan Wiki 💖
 <p align="center">
     <img src="https://i.imgur.com/D9qpRZh.png">
-</p>
+</p> 
 
 ## 👋 Welcome
 The public version is always stable and has been tested properly.
@@ -15,7 +15,7 @@ I do accept feedback and suggestions on the bot. Just use **/suggest** or **/fee
 ## ➡️ Features
 - > Basic commands.
 - > Fun commands such as Gifs, pictures, games, etc.. [Check here](./Commands/Commands.md)
-- > Moderator commands such as Ban, Kick, Mute, Purge, Exp stuff.. etc..
+- > Moderator commands such as Ban, Kick, Mute, Purge, Leveling System stuff.. etc..
 - > Minecraft Crashlog, Latestlog, Error Log analyzer to find the solution. Only requires a Forum Channel called "mc-issues".
 - > For more indepth features [Click Here](./OtherStuff/Features.md)
 ## ❌ Known Issues
@@ -25,9 +25,9 @@ I do accept feedback and suggestions on the bot. Just use **/suggest** or **/fee
 - **Is it possible to view the source of this bot?**
     > For the time being i keep the source private, as i'm working a lot on this bot, but i might eventually make it public.
 - **I love this bot and i wish to support you, how can i do that?**
-    > Join my discord and look in the #Haven-Access channel.
+    > Yes you can [Go Here](./OtherStuff/Support.md)
 - **How can i add this bot to my own server?**
     > You can use [This link here](https://discord.com/api/oauth2/authorize?client_id=1188335971150868490&permissions=28582971698423&scope=bot+applications.commands)
 ## ➡️ Help & Support
 - > [Join my Discord Server](https://discord.gg/u6SpUpfMzy)
-- > [Follow me on Twitch](https://www.twitch.tv/CathieNova)
+- > For more indepth support [Click here](./OtherStuff/Support.md)

@@ -2,8 +2,11 @@
 
 ## 🧒 For regular members:
 - [Basic Commands](../Commands/SlashCommands/BasicCommands.md)
-- [Fun Commands]()
-- [Leveling Commands]()
+- [Fun Commands](../Commands/SlashCommands/FunCommands.md)
+- [Leveling Commands](../Commands/SlashCommands/LevelingCommands.md)
 
 ## 👮 For moderators:
 - [Moderator Commands](../Commands/SlashCommands/ModeratorCommands.md)
+
+## 🧙‍♀️ For bot owner:
+- [Owner Commands](../Commands/SlashCommands/OwnerCommands.md)
