@@ -8,4 +8,5 @@
     - [Moderator Commands](./Commands/SlashCommands/ModeratorCommands.md)
     - [Owner Commands](./Commands/SlashCommands/OwnerCommands.md)
 - [Features](./OtherStuff/Features.md)
+- [Roadmap](./OtherStuff/Roadmap.md)
 - [Support & Help](./OtherStuff/Support.md)
