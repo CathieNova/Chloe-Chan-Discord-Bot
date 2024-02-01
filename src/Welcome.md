@@ -1,17 +1,36 @@
-# Welcome to Chloe-Chan Wiki
+# 💖 Welcome to Chloe-Chan Wiki 💖
 
 <p align="center">
 <img src="https://i.imgur.com/D9qpRZh.png">
 </p>
 
-## :wave: Welcome
+## 👋 Welcome
+This discord bot is being worked on daily to improve the quality as well as upcoming features.
 
-## :arrow_right:
+The public version is always stable and has been tested properly.
+Now that being said, i'm not without flaws, so something unexpected could occur.
 
-## :arrow_right:
+This bot does contain some Premium features, but you are not required to get them, it only advertises my own discord.
+If you wish to remove that then join my discord and look at the #Haven-Access channel.
 
-## :arrow_right:
+I do accept feedback and suggestions on the bot. Just use **/suggest** or **/feedback** command and i will see it.
 
-## Help & Support
+## ➡️ Features
+- Basic commands.
+- Fun commands such as Gifs, pictures, games, etc.. [Check here](../Commands/Commands.md)
+- Moderator commands such as Ban, Kick, Mute, Purge, Exp stuff.. etc..
+- Minecraft Crashlog, Latestlog, Error Log analyzer to find the solution. Only requires a Forum Channel called "mc-issues".
+
+## ❌ Known Issues
+- Currently the bot can only be in 100 discord servers. With time this will increase.
+- The **/waifu** and **/waifu34** commands might cause high traffic, this will be fixed soon.
+
+## 📖 FAQ
+- Is it possible to view the source of this bot?
+    - For the time being i keep the source private, as i'm working a lot on this bot, but i might eventually make it public.
+- I love this bot and i wish to support you, how can i do that?
+    - Join my discord and look in the #Haven-Access channel.
+
+## ➡️ Help & Support
 - [Join my Discord Server](https://discord.gg/u6SpUpfMzy)
 - [Follow me on Twitch](https://www.twitch.tv/CathieNova)
