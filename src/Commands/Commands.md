@@ -4,9 +4,7 @@
 - [Basic Commands](../Commands/SlashCommands/BasicCommands.md)
 - [Fun Commands](../Commands/SlashCommands/FunCommands.md)
 - [Leveling Commands](../Commands/SlashCommands/LevelingCommands.md)
-
 ## 👮 For moderators:
 - [Moderator Commands](../Commands/SlashCommands/ModeratorCommands.md)
-
 ## 🧙‍♀️ For bot owner:
 - [Owner Commands](../Commands/SlashCommands/OwnerCommands.md)
