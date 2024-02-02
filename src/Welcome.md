@@ -27,7 +27,7 @@ I do accept feedback and suggestions on the bot. Just use **/suggest** or **/fee
 - **I love this bot and i wish to support you, how can i do that?**
     > Yes you can [Go Here](./OtherStuff/Support.md)
 - **How can i add this bot to my own server?**
-    > You can use [This link here](https://discord.com/api/oauth2/authorize?client_id=1192460793300648057&permissions=28583005256951&scope=bot+applications.commands)
+    > You can use [This link here](https://discord.com/api/oauth2/authorize?client_id=1192460793300648057&permissions=28582971702519&scope=bot+applications.commands)
 ## ➡️ Help & Support
 - > [Join my Discord Server](https://discord.gg/u6SpUpfMzy)
 - > For more indepth support [Click here](./OtherStuff/Support.md)
