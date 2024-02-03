@@ -2,6 +2,9 @@
 <p align="center">
     <img src="https://i.imgur.com/D9qpRZh.png">
 </p> 
+<a href="https://top.gg/bot/1192460793300648057">
+  <img src="https://top.gg/api/widget/upvotes/1192460793300648057.svg">
+</a>
 
 ## 👋 Welcome
 The public version is always stable and has been tested properly.
