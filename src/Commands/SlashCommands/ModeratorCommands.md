@@ -9,6 +9,7 @@
 - DESCRIPTION - Replace this with a description, new lines can be added using **\n** in the description, like "Hello\nHows you".
 - DATE - Using DD/MM/YYYY format, Day, Month, Year.
 - TIME - Using HH:MM format, Hour, Minute.
+- COMMAND - Replace this with the command name without the slash.
 
 ## 💻 Commands
 
@@ -22,3 +23,5 @@
 | **/signup TITLE DESCRIPTION DATE TIME** | Creates a signup poll for events, movie nights, etc.. you decide. | CreateEvents |  |
 | **/guild** | Shows information about the server it's used in. | ManageMessages |  |
 | **/user** | Shows information about the user. | ManageMessages | This command is very different than the Profile command. |
+| **/disablecommand COMMAND** | Disables the command for your server. | ManageMessages |  |
+| **/enablecommand COMMAND** | Enables the command for your server. | ManageMessages |  |

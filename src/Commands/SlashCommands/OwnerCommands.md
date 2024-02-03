@@ -17,6 +17,6 @@
 | **/addmcword** | Adds a sentance or word to add for Chloe to detect related to MC outside of MC Channels. | CathieNova |  |
 | **/removemcword** | Removes a sentance or word to add for Chloe to detect related to MC outside of MC Channels. | CathieNova |  |
 | **/listwords** | List words from the list Chloe to detect related to MC outside of MC Channels. | CathieNova |  |
-| **/mcservers** | List Minecraft Servers. | CathieNova | Feature not working yet. |
 | **/addmcserver** | Adds a Minecraft server to the Server List. | CathieNova | Feature not working yet. |
 | **removemcserver** | Removes a Minecraft server from the Server List. | CathieNova | Feature not working yet. |
+| **/listguilds** | Lists all guilds Chloe-Chan is part of. | CathieNova |  |

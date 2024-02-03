@@ -23,5 +23,9 @@ Once all blue markers have been implemented, it will be moved to the public bran
     
     > Example: `Members: 5836`
 
-## 📌 Features Added from Planned
-> None yet.
+## 📌 Changelog:
+- 03 Feb 2024
+    > Added Disable/Enable commands
+        > If "profile" command is disabled, it also disables the leveling system.
+    > Fixed dog command to say dog, and not cat.
+    > Cleaned up some code.
