@@ -29,3 +29,5 @@ Once all blue markers have been implemented, it will be moved to the public bran
         > If "profile" command is disabled, it also disables the leveling system.
     > Fixed dog command to say dog, and not cat.
     > Cleaned up some code.
+- 06 Feb 2024
+    > Fixed the Flip command to display what Heads and Tails is when Chloe-Chan flips.
